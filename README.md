@@ -11,3 +11,6 @@ don't use this
 Nothing to install
 
 
+## License
+
+no license
